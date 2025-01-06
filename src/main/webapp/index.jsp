@@ -4,7 +4,7 @@
     <title>Calculator</title>
 </head>
 <body>
-    <h1>Simple Calculator</h1>
+    <h1>Calculator Application</h1>
     <form action="calculator" method="post">
         <input type="text" name="num1" placeholder="Enter first number" required>
         <input type="text" name="num2" placeholder="Enter second number" required>
